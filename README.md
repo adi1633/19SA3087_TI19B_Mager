@@ -7,4 +7,4 @@ Anggota :
 
 Adi Bahrul Ulum (19SA3050), Imam Restu Munajat (19SA3030)
 
-<p>Project ini tentang suatu sistem mengenai pelayanan cafe, yang bertugas memberikan pelayanan pemesanan agar lebih praktis pada masa pandemi saat ini. Project ini menggunakan metode Iteratif.</p>
+Project ini tentang suatu sistem mengenai pelayanan cafe, yang bertugas memberikan pelayanan pemesanan agar lebih praktis pada masa pandemi saat ini. Project ini menggunakan metode Iteratif.
